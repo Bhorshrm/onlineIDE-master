@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/himanshu010/onlineide">
+  <a href="https://github.com/Bhorshrm/onlineide-master">
     <img width="200" height="auto" src="./public/assets/images/logo-main.gif">
   </a>
   <br>
